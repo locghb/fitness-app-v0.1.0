@@ -20,5 +20,14 @@ thay api key
 
 ![image](https://github.com/user-attachments/assets/57588817-f30d-4a47-ab98-1362123533d4)
 
+## UPDATE
 
+đổi cấu trúc thư mục
 
+thêm nav bar
+
+![image](https://github.com/user-attachments/assets/00131a35-dc2b-41fd-900c-393649102793)
+
+![image](https://github.com/user-attachments/assets/519f101b-0daf-43a5-82a7-6518ea3b9ca2)
+
+![image](https://github.com/user-attachments/assets/3c44b37a-edf5-4627-a2f6-e523e1887cd8)
